@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'poppins', serif ;
+}
+.hero{
+    width: 100%;
+    min-height: 100vh;
+    /*padding: 20px 8%;*/
+    background-image: url("IMG/pexel.jpeg");
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+nav{
+    width: 100%;
+    padding: 20px 12px;
+    min-height: 100vh;
+    align-items: center;
+    justify-content: space-between;
+}
+nav ul{
+    text-align: right;
+    list-style: none;
+    padding: 15px 8px;
+    width: 100%;
+}
+nav ul li{
+    display: inline-block;
+    margin: 10px 20px;
+}
+nav ul li a{
+    text-decoration: none;
+    color: #00FF00;
+    font-size: 20px;
+}
+
+
+
+
+
+
+
+
+
+
